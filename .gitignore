@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+user_tasks.json
+adhoc_tasks.json
+*.bat
+Dockerfile
+.dockerignore
+startup.sh
+Azure_Deployment_Guide.md
+PowerBI_Setup_Guide.md
+README.md
+create_templates.py
